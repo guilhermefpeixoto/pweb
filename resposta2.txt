@@ -1,0 +1,5 @@
+HTML - O HTML é uma linguagem de marcação que possibilita a estruturação de páginas web utilizando tags, de modo a deixar a informação semântica, permitindo também realizar conexões a partir de hiperlinks para outros documentos pela rede global.
+
+CSS - O CSS é responsável por estilizar as páginas criadas por HTML, dando ao autor a possibilidade de não só deixar a página mais visualmente agradável, mas também trazer responsividade e efeitos visuais que não seriam possíveis com HTML puro.
+
+Javascript - O Javascript é responsável por trazer interatividade para a página, sendo uma linguagem de programação que é executada diretamente no browser do cliente, aumentando bastante o leque de possibilidades de interação do usuário nas páginas em que navegam, reagindo a eventos de acordo com as ações do usuário.
